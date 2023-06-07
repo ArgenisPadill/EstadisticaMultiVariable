@@ -18,7 +18,7 @@ from plotly.offline import plot # en Jupyter esta línea no es necesaria
 
 import os
 
-os.chdir("/home/sharkman/Documentos/DataDcience/EstadisticaMultiVariable/Tabla/")
+os.chdir("/home/sharkman/Documentos/DataScience/EstadisticaMultiVariable/Tabla/")
 
 iris = pd.read_csv("iris.csv")
 
