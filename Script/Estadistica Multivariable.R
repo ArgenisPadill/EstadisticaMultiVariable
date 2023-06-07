@@ -18,7 +18,7 @@ iris %>% names()
 ########################   Lectura de archivos   ########################
 #########################################################################
 
-setwd("/home/sharkman/Documentos/DataDcience/EstadisticaMultiVariable/Tabla/")
+setwd("/home/sharkman/Documentos/DataScience/EstadisticaMultiVariable/Tabla/")
 getwd()
 
 iris <- read.csv("iris.csv")
