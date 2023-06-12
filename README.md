@@ -5,7 +5,7 @@ Ejercicios practicos de la Tabla Iris  Empleando Phyton y R
 
 
 
-##Histogramas y densidades por columna <br>
+Histogramas y densidades por columna <br>
 ![1HistogramaAbsolutoAnchoSepaloSinDistinguirEspecies](https://github.com/ArgenisPadill/EstadisticaMultiVariable/assets/83727559/bf6ff945-d09c-4161-82e3-7c7e143adf4a)
 
 ![2HistogramaAbsolutoAnchoSepaloSinDistinguirEspeciesConDesnsidad](https://github.com/ArgenisPadill/EstadisticaMultiVariable/assets/83727559/4000f6bc-0418-41e7-adfc-ffc6639bf6cf)
